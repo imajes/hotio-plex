@@ -3,9 +3,9 @@
     {
       "name": "release",
       "version": "1.25.3.5409-f11334058",
-      "commit": "fb86c3a",
+      "commit": "dafdc73",
       "upstream": "Releases",
-      "lastUpdated": "2022-01-14T13:30:49.189Z"
+      "lastUpdated": "2022-01-21T13:17:29.782Z"
     },
     {
       "name": "testing",
